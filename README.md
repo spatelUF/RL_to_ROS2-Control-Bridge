@@ -1,4 +1,4 @@
-# English | [中文](README_cn.md)
+
 # Deployment of Training Results
 
 
